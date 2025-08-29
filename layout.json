@@ -5,27 +5,27 @@
   },
   {
     "type":"CAROUSEL",
-    "title":"Carousel 1",
+    "title":"Carousel A",
     "dataSourceUrl":"cards.json"
   },
   {
     "type":"CAROUSEL",
-    "title":"Carousel 2",
+    "title":"Carousel B",
     "dataSourceUrl":"cards.json"
   },
   {
     "type":"CAROUSEL",
-    "title":"Carousel 3",
+    "title":"Carousel C",
     "dataSourceUrl":"cards.json"
   },
   {
     "type":"CAROUSEL",
-    "title":"Carousel 4",
+    "title":"Carousel D",
     "dataSourceUrl":"cards.json"
   },
   {
     "type":"CAROUSEL",
-    "title":"Carousel 5",
+    "title":"Carousel E",
     "dataSourceUrl":"cards.json"
   }
 ]
